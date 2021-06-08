@@ -127,11 +127,11 @@ company_cd,rr_cd,company_name,company_name_k,company_name_h,company_name_r,compa
 199,99,水間鉄道,ミズマテツドウ,水間鉄道株式会社,水鉄,http://www.suitetsu.com/,0,0,197
 249,99,Osaka Metro,オオサカメトロ,大阪市高速電気軌道株式会社,大阪メトロ,http://www.osakametro.co.jp,2,0,197
 200,99,大阪市交通局,オオサカシコウツウキョク,大阪市交通局,大阪市交通局,http://www.city.osaka.lg.jp/toshikotsu/,0,0,198
-201,99,大阪高速鉄道,オオサカコウソクテツドウ,大阪高速鉄道株式会社,大阪モノレール,http://www.osaka-monorail.co.jp/,0,0,199
+201,99,大阪モノレール株式会社,オオサカモノレール,大阪モノレール株式会社,大阪モノレール,http://www.osaka-monorail.co.jp/,0,0,199
 202,99,阪堺電気軌道,ハンカイデンキキドウ,阪堺電気軌道株式会社,阪堺,http://www.hankai.co.jp/,0,0,200
 203,99,神戸高速鉄道,コウベコウソクテツドウ,神戸高速鉄道株式会社,神戸高速,http://www.kobe-kousoku.jp/,3,0,201
 204,99,神戸電鉄,コウベデンテツ,神戸電鉄株式会社,神鉄,http://www.shintetsu.co.jp/,0,0,202
-205,99,北神急行電鉄,ホクシンキュウコウデンテツ,北神急行電鉄株式会社,北神急行,http://www.hokushinkyuko.co.jp/,0,0,203
+205,99,北神急行電鉄,ホクシンキュウコウデンテツ,北神急行電鉄株式会社,北神急行,http://www.hokushinkyuko.co.jp/,0,2,203
 206,99,山陽電気鉄道,サンヨウデンキテツドウ,山陽電気鉄道株式会社,山陽電車,http://www.sanyo-railway.co.jp/,3,0,204
 207,99,能勢電鉄,ノセデンテツ,能勢電鉄株式会社,能勢電,http://noseden.hankyu.co.jp/,0,0,205
 208,99,三木鉄道,ミキテツドウ,三木鉄道株式会社,三木鉄道,,0,2,206
