@@ -1,0 +1,13 @@
+name: 'generate'
+on: push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: npm install
+        working-directory: ./.github/actions/generate
+      - run: npm run all
+        working-directory: ./.github/actions/generate
+      - uses: ./.github/actions/generate
