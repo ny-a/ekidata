@@ -4,6 +4,10 @@
 
 ライセンス等についても [利用規約](https://ekidata.jp/agreement.php) を参照してください。
 
-## JSON 形式のデータについて
+## API について
 
-準備ができ次第配布する予定です。
+[駅データ.jp の API](https://ekidata.jp/api/) の仕様欄にある API を公開しました。
+(.json ファイルは、JavaScript のファイルではなく JSON 形式に変更しています。)
+
+都道府県 API であれば、https://ny-a.github.io/ekidata/api/p/1.json などにアクセスしてください。
+(HTML ファイルは準備中です。)
