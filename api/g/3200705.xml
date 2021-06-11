@@ -12,7 +12,7 @@
   <station_g>
     <pref_cd>27</pref_cd>
     <line_cd>32001</line_cd>
-    <line_name>南海高野線</line_name>
+    <line_name>南海本線</line_name>
     <station_cd>3200103</station_cd>
     <station_name>天下茶屋</station_name>
   </station_g>
@@ -26,7 +26,7 @@
   <station_g>
     <pref_cd>27</pref_cd>
     <line_cd>99623</line_cd>
-    <line_name>南海高野線</line_name>
+    <line_name>大阪メトロ堺筋線</line_name>
     <station_cd>9962310</station_cd>
     <station_name>天下茶屋</station_name>
   </station_g>

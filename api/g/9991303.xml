@@ -12,7 +12,7 @@
   <station_g>
     <pref_cd>42</pref_cd>
     <line_cd>11905</line_cd>
-    <line_name>長崎電軌１系統</line_name>
+    <line_name>JR長崎本線(鳥栖～長崎)</line_name>
     <station_cd>1190539</station_cd>
     <station_name>西浦上</station_name>
   </station_g>
@@ -26,7 +26,7 @@
   <station_g>
     <pref_cd>42</pref_cd>
     <line_cd>99914</line_cd>
-    <line_name>長崎電軌１系統</line_name>
+    <line_name>長崎電軌３系統</line_name>
     <station_cd>9991422</station_cd>
     <station_name>昭和町通</station_name>
   </station_g>

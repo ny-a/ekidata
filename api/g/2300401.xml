@@ -12,7 +12,7 @@
   <station_g>
     <pref_cd>12</pref_cd>
     <line_cd>23001</line_cd>
-    <line_name>京成千葉線</line_name>
+    <line_name>京成本線</line_name>
     <station_cd>2300126</station_cd>
     <station_name>京成津田沼</station_name>
   </station_g>
@@ -26,7 +26,7 @@
   <station_g>
     <pref_cd>12</pref_cd>
     <line_cd>99329</line_cd>
-    <line_name>京成千葉線</line_name>
+    <line_name>新京成線</line_name>
     <station_cd>9932901</station_cd>
     <station_name>京成津田沼</station_name>
   </station_g>

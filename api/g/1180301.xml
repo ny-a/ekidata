@@ -12,7 +12,7 @@
   <station_g>
     <pref_cd>36</pref_cd>
     <line_cd>11802</line_cd>
-    <line_name>よしの川ブルーライン</line_name>
+    <line_name>JR高徳線</line_name>
     <station_cd>1180229</station_cd>
     <station_name>徳島</station_name>
   </station_g>
@@ -26,7 +26,7 @@
   <station_g>
     <pref_cd>36</pref_cd>
     <line_cd>11804</line_cd>
-    <line_name>よしの川ブルーライン</line_name>
+    <line_name>JR牟岐線</line_name>
     <station_cd>1180401</station_cd>
     <station_name>徳島</station_name>
   </station_g>

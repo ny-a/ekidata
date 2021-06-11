@@ -12,7 +12,7 @@
   <station_g>
     <pref_cd>13</pref_cd>
     <line_cd>11302</line_cd>
-    <line_name>JR中央・総武線</line_name>
+    <line_name>JR山手線</line_name>
     <station_cd>1130207</station_cd>
     <station_name>代々木</station_name>
   </station_g>
@@ -26,7 +26,7 @@
   <station_g>
     <pref_cd>13</pref_cd>
     <line_cd>99301</line_cd>
-    <line_name>JR中央・総武線</line_name>
+    <line_name>都営大江戸線</line_name>
     <station_cd>9930127</station_cd>
     <station_name>代々木</station_name>
   </station_g>

@@ -12,14 +12,14 @@
   <station_g>
     <pref_cd>1</pref_cd>
     <line_cd>99101</line_cd>
-    <line_name>札幌市営地下鉄東豊線</line_name>
+    <line_name>札幌市営地下鉄東西線</line_name>
     <station_cd>9910109</station_cd>
     <station_name>大通</station_name>
   </station_g>
   <station_g>
     <pref_cd>1</pref_cd>
     <line_cd>99102</line_cd>
-    <line_name>札幌市営地下鉄東豊線</line_name>
+    <line_name>札幌市営地下鉄南北線</line_name>
     <station_cd>9910207</station_cd>
     <station_name>大通</station_name>
   </station_g>

@@ -12,21 +12,21 @@
   <station_g>
     <pref_cd>38</pref_cd>
     <line_cd>99808</line_cd>
-    <line_name>伊予鉄道本町線</line_name>
+    <line_name>伊予鉄道環状線</line_name>
     <station_cd>9980803</station_cd>
     <station_name>西堀端</station_name>
   </station_g>
   <station_g>
     <pref_cd>38</pref_cd>
     <line_cd>99809</line_cd>
-    <line_name>伊予鉄道本町線</line_name>
+    <line_name>伊予鉄道環状線</line_name>
     <station_cd>9980921</station_cd>
     <station_name>西堀端</station_name>
   </station_g>
   <station_g>
     <pref_cd>38</pref_cd>
     <line_cd>99811</line_cd>
-    <line_name>伊予鉄道本町線</line_name>
+    <line_name>伊予鉄道松山駅前線</line_name>
     <station_cd>9981103</station_cd>
     <station_name>西堀端</station_name>
   </station_g>

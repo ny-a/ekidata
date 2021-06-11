@@ -19,14 +19,14 @@
   <station_g>
     <pref_cd>12</pref_cd>
     <line_cd>11320</line_cd>
-    <line_name>JR武蔵野線</line_name>
+    <line_name>JR常磐線(上野～取手)</line_name>
     <station_cd>1132012</station_cd>
     <station_name>新松戸</station_name>
   </station_g>
   <station_g>
     <pref_cd>12</pref_cd>
     <line_cd>99333</line_cd>
-    <line_name>JR武蔵野線</line_name>
+    <line_name>流鉄流山線</line_name>
     <station_cd>9933302</station_cd>
     <station_name>幸谷</station_name>
   </station_g>

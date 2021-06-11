@@ -12,7 +12,7 @@
   <station_g>
     <pref_cd>34</pref_cd>
     <line_cd>99710</line_cd>
-    <line_name>広電３号線</line_name>
+    <line_name>広電１号線(宇品線)</line_name>
     <station_cd>9971016</station_cd>
     <station_name>広電本社前</station_name>
   </station_g>
@@ -26,7 +26,7 @@
   <station_g>
     <pref_cd>34</pref_cd>
     <line_cd>99715</line_cd>
-    <line_name>広電３号線</line_name>
+    <line_name>広電７号線</line_name>
     <station_cd>9971515</station_cd>
     <station_name>広電本社前</station_name>
   </station_g>

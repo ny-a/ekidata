@@ -12,21 +12,21 @@
   <station_g>
     <pref_cd>3</pref_cd>
     <line_cd>11211</line_cd>
-    <line_name>いわて銀河鉄道線</line_name>
+    <line_name>JR田沢湖線</line_name>
     <station_cd>1121101</station_cd>
     <station_name>盛岡</station_name>
   </station_g>
   <station_g>
     <pref_cd>3</pref_cd>
     <line_cd>11213</line_cd>
-    <line_name>いわて銀河鉄道線</line_name>
+    <line_name>JR山田線</line_name>
     <station_cd>1121301</station_cd>
     <station_name>盛岡</station_name>
   </station_g>
   <station_g>
     <pref_cd>3</pref_cd>
     <line_cd>11231</line_cd>
-    <line_name>いわて銀河鉄道線</line_name>
+    <line_name>JR東北本線(黒磯～利府・盛岡)</line_name>
     <station_cd>1123185</station_cd>
     <station_name>盛岡</station_name>
   </station_g>

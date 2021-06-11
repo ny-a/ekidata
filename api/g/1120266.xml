@@ -19,14 +19,14 @@
   <station_g>
     <pref_cd>2</pref_cd>
     <line_cd>11205</line_cd>
-    <line_name>JR奥羽本線(新庄～青森)</line_name>
+    <line_name>JR津軽線</line_name>
     <station_cd>1120501</station_cd>
     <station_name>青森</station_name>
   </station_g>
   <station_g>
     <pref_cd>2</pref_cd>
     <line_cd>99206</line_cd>
-    <line_name>JR奥羽本線(新庄～青森)</line_name>
+    <line_name>青い森鉄道線</line_name>
     <station_cd>1120120</station_cd>
     <station_name>青森</station_name>
   </station_g>

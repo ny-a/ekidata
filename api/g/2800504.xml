@@ -12,7 +12,7 @@
   <station_g>
     <pref_cd>13</pref_cd>
     <line_cd>23001</line_cd>
-    <line_name>東京メトロ千代田線</line_name>
+    <line_name>京成本線</line_name>
     <station_cd>2300104</station_cd>
     <station_name>町屋</station_name>
   </station_g>
@@ -26,7 +26,7 @@
   <station_g>
     <pref_cd>13</pref_cd>
     <line_cd>99305</line_cd>
-    <line_name>東京メトロ千代田線</line_name>
+    <line_name>都電荒川線</line_name>
     <station_cd>9930506</station_cd>
     <station_name>町屋駅前</station_name>
   </station_g>

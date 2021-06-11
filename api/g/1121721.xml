@@ -12,7 +12,7 @@
   <station_g>
     <pref_cd>6</pref_cd>
     <line_cd>11216</line_cd>
-    <line_name>JR仙山線</line_name>
+    <line_name>山形線</line_name>
     <station_cd>1121618</station_cd>
     <station_name>山形</station_name>
   </station_g>
@@ -26,7 +26,7 @@
   <station_g>
     <pref_cd>6</pref_cd>
     <line_cd>11218</line_cd>
-    <line_name>JR仙山線</line_name>
+    <line_name>フルーツライン左沢線</line_name>
     <station_cd>1121801</station_cd>
     <station_name>山形</station_name>
   </station_g>

@@ -12,7 +12,7 @@
   <station_g>
     <pref_cd>27</pref_cd>
     <line_cd>31001</line_cd>
-    <line_name>大阪メトロ千日前線</line_name>
+    <line_name>近鉄難波線</line_name>
     <station_cd>3100102</station_cd>
     <station_name>近鉄日本橋</station_name>
   </station_g>
@@ -26,7 +26,7 @@
   <station_g>
     <pref_cd>27</pref_cd>
     <line_cd>99623</line_cd>
-    <line_name>大阪メトロ千日前線</line_name>
+    <line_name>大阪メトロ堺筋線</line_name>
     <station_cd>9962307</station_cd>
     <station_name>日本橋</station_name>
   </station_g>

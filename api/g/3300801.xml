@@ -12,7 +12,7 @@
   <station_g>
     <pref_cd>27</pref_cd>
     <line_cd>33001</line_cd>
-    <line_name>京阪中之島線</line_name>
+    <line_name>京阪本線</line_name>
     <station_cd>3300138</station_cd>
     <station_name>天満橋</station_name>
   </station_g>
@@ -26,7 +26,7 @@
   <station_g>
     <pref_cd>27</pref_cd>
     <line_cd>99619</line_cd>
-    <line_name>京阪中之島線</line_name>
+    <line_name>大阪メトロ谷町線</line_name>
     <station_cd>9961912</station_cd>
     <station_name>天満橋</station_name>
   </station_g>

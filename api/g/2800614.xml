@@ -12,7 +12,7 @@
   <station_g>
     <pref_cd>13</pref_cd>
     <line_cd>11313</line_cd>
-    <line_name>東京メトロ有楽町線</line_name>
+    <line_name>JR中央・総武線</line_name>
     <station_cd>1131315</station_cd>
     <station_name>市ケ谷</station_name>
   </station_g>
@@ -26,14 +26,14 @@
   <station_g>
     <pref_cd>13</pref_cd>
     <line_cd>28009</line_cd>
-    <line_name>東京メトロ有楽町線</line_name>
+    <line_name>東京メトロ南北線</line_name>
     <station_cd>2800911</station_cd>
     <station_name>市ケ谷</station_name>
   </station_g>
   <station_g>
     <pref_cd>13</pref_cd>
     <line_cd>99304</line_cd>
-    <line_name>東京メトロ有楽町線</line_name>
+    <line_name>都営新宿線</line_name>
     <station_cd>9930404</station_cd>
     <station_name>市ヶ谷</station_name>
   </station_g>

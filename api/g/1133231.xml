@@ -12,14 +12,14 @@
   <station_g>
     <pref_cd>14</pref_cd>
     <line_cd>11301</line_cd>
-    <line_name>JR京浜東北線</line_name>
+    <line_name>JR東海道本線(東京～熱海)</line_name>
     <station_cd>1130104</station_cd>
     <station_name>川崎</station_name>
   </station_g>
   <station_g>
     <pref_cd>14</pref_cd>
     <line_cd>11303</line_cd>
-    <line_name>JR京浜東北線</line_name>
+    <line_name>JR南武線</line_name>
     <station_cd>1130301</station_cd>
     <station_name>川崎</station_name>
   </station_g>

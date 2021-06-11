@@ -12,7 +12,7 @@
   <station_g>
     <pref_cd>1</pref_cd>
     <line_cd>11101</line_cd>
-    <line_name>JR函館本線(長万部～小樽)</line_name>
+    <line_name>JR函館本線(函館～長万部)</line_name>
     <station_cd>1110138</station_cd>
     <station_name>長万部</station_name>
   </station_g>
@@ -26,7 +26,7 @@
   <station_g>
     <pref_cd>1</pref_cd>
     <line_cd>11104</line_cd>
-    <line_name>JR函館本線(長万部～小樽)</line_name>
+    <line_name>JR室蘭本線(長万部・室蘭～苫小牧)</line_name>
     <station_cd>1110401</station_cd>
     <station_name>長万部</station_name>
   </station_g>

@@ -12,14 +12,14 @@
   <station_g>
     <pref_cd>27</pref_cd>
     <line_cd>11623</line_cd>
-    <line_name>阪神本線</line_name>
+    <line_name>大阪環状線</line_name>
     <station_cd>1162309</station_cd>
     <station_name>福島</station_name>
   </station_g>
   <station_g>
     <pref_cd>27</pref_cd>
     <line_cd>11625</line_cd>
-    <line_name>阪神本線</line_name>
+    <line_name>JR東西線</line_name>
     <station_cd>1162505</station_cd>
     <station_name>新福島</station_name>
   </station_g>

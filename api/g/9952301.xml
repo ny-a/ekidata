@@ -12,21 +12,21 @@
   <station_g>
     <pref_cd>23</pref_cd>
     <line_cd>11411</line_cd>
-    <line_name>ゆとりーとライン</line_name>
+    <line_name>JR中央本線(名古屋～塩尻)</line_name>
     <station_cd>1141105</station_cd>
     <station_name>大曽根</station_name>
   </station_g>
   <station_g>
     <pref_cd>23</pref_cd>
     <line_cd>30012</line_cd>
-    <line_name>ゆとりーとライン</line_name>
+    <line_name>名鉄瀬戸線</line_name>
     <station_cd>3001206</station_cd>
     <station_name>大曽根</station_name>
   </station_g>
   <station_g>
     <pref_cd>23</pref_cd>
     <line_cd>99514</line_cd>
-    <line_name>ゆとりーとライン</line_name>
+    <line_name>名古屋市営地下鉄名城線</line_name>
     <station_cd>9951402</station_cd>
     <station_name>大曽根</station_name>
   </station_g>

@@ -12,21 +12,21 @@
   <station_g>
     <pref_cd>14</pref_cd>
     <line_cd>11303</line_cd>
-    <line_name>JR湘南新宿ライン</line_name>
+    <line_name>JR南武線</line_name>
     <station_cd>1130307</station_cd>
     <station_name>武蔵小杉</station_name>
   </station_g>
   <station_g>
     <pref_cd>14</pref_cd>
     <line_cd>11308</line_cd>
-    <line_name>JR湘南新宿ライン</line_name>
+    <line_name>JR横須賀線</line_name>
     <station_cd>1130819</station_cd>
     <station_name>武蔵小杉</station_name>
   </station_g>
   <station_g>
     <pref_cd>14</pref_cd>
     <line_cd>11328</line_cd>
-    <line_name>JR湘南新宿ライン</line_name>
+    <line_name>JR成田エクスプレス</line_name>
     <station_cd>1132821</station_cd>
     <station_name>武蔵小杉</station_name>
   </station_g>
@@ -40,14 +40,14 @@
   <station_g>
     <pref_cd>14</pref_cd>
     <line_cd>26001</line_cd>
-    <line_name>JR湘南新宿ライン</line_name>
+    <line_name>東急東横線</line_name>
     <station_cd>2600111</station_cd>
     <station_name>武蔵小杉</station_name>
   </station_g>
   <station_g>
     <pref_cd>14</pref_cd>
     <line_cd>26002</line_cd>
-    <line_name>JR湘南新宿ライン</line_name>
+    <line_name>東急目黒線</line_name>
     <station_cd>2600211</station_cd>
     <station_name>武蔵小杉</station_name>
   </station_g>

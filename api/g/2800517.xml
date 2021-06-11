@@ -12,7 +12,7 @@
   <station_g>
     <pref_cd>13</pref_cd>
     <line_cd>28001</line_cd>
-    <line_name>東京メトロ千代田線</line_name>
+    <line_name>東京メトロ銀座線</line_name>
     <station_cd>2800118</station_cd>
     <station_name>表参道</station_name>
   </station_g>
@@ -26,7 +26,7 @@
   <station_g>
     <pref_cd>13</pref_cd>
     <line_cd>28008</line_cd>
-    <line_name>東京メトロ千代田線</line_name>
+    <line_name>東京メトロ半蔵門線</line_name>
     <station_cd>2800802</station_cd>
     <station_name>表参道</station_name>
   </station_g>

@@ -12,14 +12,14 @@
   <station_g>
     <pref_cd>14</pref_cd>
     <line_cd>11301</line_cd>
-    <line_name>江ノ島電鉄線</line_name>
+    <line_name>JR東海道本線(東京～熱海)</line_name>
     <station_cd>1130108</station_cd>
     <station_name>藤沢</station_name>
   </station_g>
   <station_g>
     <pref_cd>14</pref_cd>
     <line_cd>25002</line_cd>
-    <line_name>江ノ島電鉄線</line_name>
+    <line_name>小田急江ノ島線</line_name>
     <station_cd>2500214</station_cd>
     <station_name>藤沢</station_name>
   </station_g>

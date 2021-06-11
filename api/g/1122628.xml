@@ -12,7 +12,7 @@
   <station_g>
     <pref_cd>15</pref_cd>
     <line_cd>11214</line_cd>
-    <line_name>森と水とロマンの鉄道</line_name>
+    <line_name>JR羽越本線</line_name>
     <station_cd>1121401</station_cd>
     <station_name>新津</station_name>
   </station_g>
@@ -26,7 +26,7 @@
   <station_g>
     <pref_cd>15</pref_cd>
     <line_cd>11404</line_cd>
-    <line_name>森と水とロマンの鉄道</line_name>
+    <line_name>JR信越本線(直江津～新潟)</line_name>
     <station_cd>1140437</station_cd>
     <station_name>新津</station_name>
   </station_g>

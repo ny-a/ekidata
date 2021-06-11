@@ -19,14 +19,14 @@
   <station_g>
     <pref_cd>20</pref_cd>
     <line_cd>11412</line_cd>
-    <line_name>北アルプス線</line_name>
+    <line_name>JR篠ノ井線</line_name>
     <station_cd>1141205</station_cd>
     <station_name>松本</station_name>
   </station_g>
   <station_g>
     <pref_cd>20</pref_cd>
     <line_cd>99407</line_cd>
-    <line_name>北アルプス線</line_name>
+    <line_name>上高地線</line_name>
     <station_cd>9940701</station_cd>
     <station_name>松本</station_name>
   </station_g>

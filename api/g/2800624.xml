@@ -12,7 +12,7 @@
   <station_g>
     <pref_cd>13</pref_cd>
     <line_cd>11326</line_cd>
-    <line_name>東京メトロ有楽町線</line_name>
+    <line_name>JR京葉線</line_name>
     <station_cd>1132605</station_cd>
     <station_name>新木場</station_name>
   </station_g>
@@ -26,7 +26,7 @@
   <station_g>
     <pref_cd>13</pref_cd>
     <line_cd>99337</line_cd>
-    <line_name>東京メトロ有楽町線</line_name>
+    <line_name>りんかい線</line_name>
     <station_cd>9933701</station_cd>
     <station_name>新木場</station_name>
   </station_g>

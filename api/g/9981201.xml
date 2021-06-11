@@ -12,14 +12,14 @@
   <station_g>
     <pref_cd>38</pref_cd>
     <line_cd>99808</line_cd>
-    <line_name>伊予鉄道本町線</line_name>
+    <line_name>伊予鉄道環状線</line_name>
     <station_cd>9980809</station_cd>
     <station_name>本町六丁目</station_name>
   </station_g>
   <station_g>
     <pref_cd>38</pref_cd>
     <line_cd>99809</line_cd>
-    <line_name>伊予鉄道本町線</line_name>
+    <line_name>伊予鉄道環状線</line_name>
     <station_cd>9980915</station_cd>
     <station_name>本町六丁目</station_name>
   </station_g>

@@ -19,14 +19,14 @@
   <station_g>
     <pref_cd>14</pref_cd>
     <line_cd>11309</line_cd>
-    <line_name>JR横浜線</line_name>
+    <line_name>JR相模線</line_name>
     <station_cd>1130918</station_cd>
     <station_name>橋本</station_name>
   </station_g>
   <station_g>
     <pref_cd>14</pref_cd>
     <line_cd>24002</line_cd>
-    <line_name>JR横浜線</line_name>
+    <line_name>京王相模原線</line_name>
     <station_cd>2400212</station_cd>
     <station_name>橋本</station_name>
   </station_g>

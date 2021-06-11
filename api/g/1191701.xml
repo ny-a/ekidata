@@ -12,14 +12,14 @@
   <station_g>
     <pref_cd>40</pref_cd>
     <line_cd>11902</line_cd>
-    <line_name>JR香椎線(香椎～宇美)</line_name>
+    <line_name>JR鹿児島本線(下関・門司港～博多)</line_name>
     <station_cd>1190227</station_cd>
     <station_name>香椎</station_name>
   </station_g>
   <station_g>
     <pref_cd>40</pref_cd>
     <line_cd>11916</line_cd>
-    <line_name>JR香椎線(香椎～宇美)</line_name>
+    <line_name>海の中道線</line_name>
     <station_cd>1191606</station_cd>
     <station_name>香椎</station_name>
   </station_g>

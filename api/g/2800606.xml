@@ -12,7 +12,7 @@
   <station_g>
     <pref_cd>13</pref_cd>
     <line_cd>22003</line_cd>
-    <line_name>東京メトロ有楽町線</line_name>
+    <line_name>西武有楽町線</line_name>
     <station_cd>2200301</station_cd>
     <station_name>小竹向原</station_name>
   </station_g>
@@ -26,7 +26,7 @@
   <station_g>
     <pref_cd>13</pref_cd>
     <line_cd>28010</line_cd>
-    <line_name>東京メトロ有楽町線</line_name>
+    <line_name>東京メトロ副都心線</line_name>
     <station_cd>2801006</station_cd>
     <station_name>小竹向原</station_name>
   </station_g>

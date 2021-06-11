@@ -19,14 +19,14 @@
   <station_g>
     <pref_cd>9</pref_cd>
     <line_cd>11339</line_cd>
-    <line_name>宇都宮線</line_name>
+    <line_name>JR水戸線</line_name>
     <station_cd>1133901</station_cd>
     <station_name>小山</station_name>
   </station_g>
   <station_g>
     <pref_cd>9</pref_cd>
     <line_cd>11341</line_cd>
-    <line_name>宇都宮線</line_name>
+    <line_name>JR両毛線</line_name>
     <station_cd>1134121</station_cd>
     <station_name>小山</station_name>
   </station_g>

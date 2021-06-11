@@ -19,14 +19,14 @@
   <station_g>
     <pref_cd>13</pref_cd>
     <line_cd>22007</line_cd>
-    <line_name>JR山手線</line_name>
+    <line_name>西武新宿線</line_name>
     <station_cd>2200702</station_cd>
     <station_name>高田馬場</station_name>
   </station_g>
   <station_g>
     <pref_cd>13</pref_cd>
     <line_cd>28004</line_cd>
-    <line_name>JR山手線</line_name>
+    <line_name>東京メトロ東西線</line_name>
     <station_cd>2800403</station_cd>
     <station_name>高田馬場</station_name>
   </station_g>

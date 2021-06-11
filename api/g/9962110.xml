@@ -12,7 +12,7 @@
   <station_g>
     <pref_cd>27</pref_cd>
     <line_cd>11623</line_cd>
-    <line_name>大阪メトロ中央線</line_name>
+    <line_name>大阪環状線</line_name>
     <station_cd>1162315</station_cd>
     <station_name>森ノ宮</station_name>
   </station_g>
@@ -26,7 +26,7 @@
   <station_g>
     <pref_cd>27</pref_cd>
     <line_cd>99624</line_cd>
-    <line_name>大阪メトロ中央線</line_name>
+    <line_name>大阪メトロ長堀鶴見緑地線</line_name>
     <station_cd>9962410</station_cd>
     <station_name>森ノ宮</station_name>
   </station_g>

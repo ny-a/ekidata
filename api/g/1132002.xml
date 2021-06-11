@@ -12,7 +12,7 @@
   <station_g>
     <pref_cd>13</pref_cd>
     <line_cd>11302</line_cd>
-    <line_name>JR常磐線(上野～取手)</line_name>
+    <line_name>JR山手線</line_name>
     <station_cd>1130218</station_cd>
     <station_name>日暮里</station_name>
   </station_g>
@@ -26,28 +26,28 @@
   <station_g>
     <pref_cd>13</pref_cd>
     <line_cd>11332</line_cd>
-    <line_name>JR常磐線(上野～取手)</line_name>
+    <line_name>JR京浜東北線</line_name>
     <station_cd>1133216</station_cd>
     <station_name>日暮里</station_name>
   </station_g>
   <station_g>
     <pref_cd>13</pref_cd>
     <line_cd>23001</line_cd>
-    <line_name>JR常磐線(上野～取手)</line_name>
+    <line_name>京成本線</line_name>
     <station_cd>2300102</station_cd>
     <station_name>日暮里</station_name>
   </station_g>
   <station_g>
     <pref_cd>13</pref_cd>
     <line_cd>23006</line_cd>
-    <line_name>JR常磐線(上野～取手)</line_name>
+    <line_name>成田スカイアクセス</line_name>
     <station_cd>2300602</station_cd>
     <station_name>日暮里</station_name>
   </station_g>
   <station_g>
     <pref_cd>13</pref_cd>
     <line_cd>99342</line_cd>
-    <line_name>JR常磐線(上野～取手)</line_name>
+    <line_name>日暮里・舎人ライナー</line_name>
     <station_cd>9934201</station_cd>
     <station_name>日暮里</station_name>
   </station_g>

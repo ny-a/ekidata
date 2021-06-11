@@ -12,7 +12,7 @@
   <station_g>
     <pref_cd>41</pref_cd>
     <line_cd>11909</line_cd>
-    <line_name>JR筑肥線(西唐津～伊万里)</line_name>
+    <line_name>JR筑肥線(姪浜～西唐津)</line_name>
     <station_cd>1190920</station_cd>
     <station_name>西唐津</station_name>
   </station_g>
@@ -26,7 +26,7 @@
   <station_g>
     <pref_cd>41</pref_cd>
     <line_cd>11921</line_cd>
-    <line_name>JR筑肥線(西唐津～伊万里)</line_name>
+    <line_name>JR唐津線</line_name>
     <station_cd>1192116</station_cd>
     <station_name>西唐津</station_name>
   </station_g>

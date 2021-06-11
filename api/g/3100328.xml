@@ -12,7 +12,7 @@
   <station_g>
     <pref_cd>29</pref_cd>
     <line_cd>31002</line_cd>
-    <line_name>近鉄南大阪線</line_name>
+    <line_name>近鉄橿原線</line_name>
     <station_cd>3100217</station_cd>
     <station_name>橿原神宮前</station_name>
   </station_g>
@@ -26,7 +26,7 @@
   <station_g>
     <pref_cd>29</pref_cd>
     <line_cd>31007</line_cd>
-    <line_name>近鉄南大阪線</line_name>
+    <line_name>近鉄吉野線</line_name>
     <station_cd>3100701</station_cd>
     <station_name>橿原神宮前</station_name>
   </station_g>

@@ -12,7 +12,7 @@
   <station_g>
     <pref_cd>7</pref_cd>
     <line_cd>11225</line_cd>
-    <line_name>森と水とロマンの鉄道</line_name>
+    <line_name>JR磐越西線(郡山～会津若松)</line_name>
     <station_cd>1122515</station_cd>
     <station_name>会津若松</station_name>
   </station_g>
@@ -26,7 +26,7 @@
   <station_g>
     <pref_cd>7</pref_cd>
     <line_cd>11227</line_cd>
-    <line_name>森と水とロマンの鉄道</line_name>
+    <line_name>JR只見線</line_name>
     <station_cd>1122701</station_cd>
     <station_name>会津若松</station_name>
   </station_g>

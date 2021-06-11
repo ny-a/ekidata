@@ -19,14 +19,14 @@
   <station_g>
     <pref_cd>27</pref_cd>
     <line_cd>32001</line_cd>
-    <line_name>羽衣線</line_name>
+    <line_name>南海本線</line_name>
     <station_cd>3200114</station_cd>
     <station_name>羽衣</station_name>
   </station_g>
   <station_g>
     <pref_cd>27</pref_cd>
     <line_cd>32004</line_cd>
-    <line_name>羽衣線</line_name>
+    <line_name>南海高師浜線</line_name>
     <station_cd>3200401</station_cd>
     <station_name>羽衣</station_name>
   </station_g>

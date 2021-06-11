@@ -19,14 +19,14 @@
   <station_g>
     <pref_cd>13</pref_cd>
     <line_cd>28010</line_cd>
-    <line_name>東京メトロ丸ノ内線</line_name>
+    <line_name>東京メトロ副都心線</line_name>
     <station_cd>2801013</station_cd>
     <station_name>新宿三丁目</station_name>
   </station_g>
   <station_g>
     <pref_cd>13</pref_cd>
     <line_cd>99304</line_cd>
-    <line_name>東京メトロ丸ノ内線</line_name>
+    <line_name>都営新宿線</line_name>
     <station_cd>9930402</station_cd>
     <station_name>新宿三丁目</station_name>
   </station_g>

@@ -19,14 +19,14 @@
   <station_g>
     <pref_cd>13</pref_cd>
     <line_cd>99336</line_cd>
-    <line_name>京急空港線</line_name>
+    <line_name>東京モノレール</line_name>
     <station_cd>9933609</station_cd>
     <station_name>羽田空港第1ターミナル</station_name>
   </station_g>
   <station_g>
     <pref_cd>13</pref_cd>
     <line_cd>99336</line_cd>
-    <line_name>京急空港線</line_name>
+    <line_name>東京モノレール</line_name>
     <station_cd>9933610</station_cd>
     <station_name>羽田空港第2ターミナル</station_name>
   </station_g>

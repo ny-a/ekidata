@@ -12,7 +12,7 @@
   <station_g>
     <pref_cd>24</pref_cd>
     <line_cd>11510</line_cd>
-    <line_name>JR名松線</line_name>
+    <line_name>JR紀勢本線</line_name>
     <station_cd>1151008</station_cd>
     <station_name>松阪</station_name>
   </station_g>
@@ -26,7 +26,7 @@
   <station_g>
     <pref_cd>24</pref_cd>
     <line_cd>31009</line_cd>
-    <line_name>JR名松線</line_name>
+    <line_name>近鉄山田線</line_name>
     <station_cd>3100904</station_cd>
     <station_name>松阪</station_name>
   </station_g>

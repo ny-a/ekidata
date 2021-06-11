@@ -19,14 +19,14 @@
   <station_g>
     <pref_cd>39</pref_cd>
     <line_cd>11808</line_cd>
-    <line_name>JR土讃線</line_name>
+    <line_name>しまんとグリーンライン</line_name>
     <station_cd>1180801</station_cd>
     <station_name>窪川</station_name>
   </station_g>
   <station_g>
     <pref_cd>39</pref_cd>
     <line_cd>99814</line_cd>
-    <line_name>JR土讃線</line_name>
+    <line_name>中村線</line_name>
     <station_cd>9981401</station_cd>
     <station_name>窪川</station_name>
   </station_g>

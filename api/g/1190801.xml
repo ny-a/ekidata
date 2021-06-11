@@ -19,14 +19,14 @@
   <station_g>
     <pref_cd>40</pref_cd>
     <line_cd>11911</line_cd>
-    <line_name>福北ゆたか線</line_name>
+    <line_name>福北ゆたか線(折尾～桂川)</line_name>
     <station_cd>1191116</station_cd>
     <station_name>桂川</station_name>
   </station_g>
   <station_g>
     <pref_cd>40</pref_cd>
     <line_cd>11912</line_cd>
-    <line_name>福北ゆたか線</line_name>
+    <line_name>原田線</line_name>
     <station_cd>1191201</station_cd>
     <station_name>桂川</station_name>
   </station_g>

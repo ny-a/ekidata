@@ -12,14 +12,14 @@
   <station_g>
     <pref_cd>11</pref_cd>
     <line_cd>11318</line_cd>
-    <line_name>秩父鉄道秩父本線</line_name>
+    <line_name>JR八高線(高麗川～高崎)</line_name>
     <station_cd>1131808</station_cd>
     <station_name>寄居</station_name>
   </station_g>
   <station_g>
     <pref_cd>11</pref_cd>
     <line_cd>21001</line_cd>
-    <line_name>秩父鉄道秩父本線</line_name>
+    <line_name>東武東上線</line_name>
     <station_cd>2100138</station_cd>
     <station_name>寄居</station_name>
   </station_g>

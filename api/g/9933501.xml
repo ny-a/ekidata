@@ -12,14 +12,14 @@
   <station_g>
     <pref_cd>12</pref_cd>
     <line_cd>11314</line_cd>
-    <line_name>銚子電鉄線</line_name>
+    <line_name>JR総武本線</line_name>
     <station_cd>1131431</station_cd>
     <station_name>銚子</station_name>
   </station_g>
   <station_g>
     <pref_cd>12</pref_cd>
     <line_cd>11327</line_cd>
-    <line_name>銚子電鉄線</line_name>
+    <line_name>JR成田線</line_name>
     <station_cd>1132719</station_cd>
     <station_name>銚子</station_name>
   </station_g>

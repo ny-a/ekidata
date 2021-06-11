@@ -12,14 +12,14 @@
   <station_g>
     <pref_cd>14</pref_cd>
     <line_cd>11304</line_cd>
-    <line_name>京急本線</line_name>
+    <line_name>JR鶴見線</line_name>
     <station_cd>1130401</station_cd>
     <station_name>鶴見</station_name>
   </station_g>
   <station_g>
     <pref_cd>14</pref_cd>
     <line_cd>11332</line_cd>
-    <line_name>京急本線</line_name>
+    <line_name>JR京浜東北線</line_name>
     <station_cd>1133232</station_cd>
     <station_name>鶴見</station_name>
   </station_g>

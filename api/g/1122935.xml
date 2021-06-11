@@ -12,7 +12,7 @@
   <station_g>
     <pref_cd>7</pref_cd>
     <line_cd>11228</line_cd>
-    <line_name>JR常磐線(取手～いわき)</line_name>
+    <line_name>ゆうゆうあぶくまライン</line_name>
     <station_cd>1122801</station_cd>
     <station_name>いわき</station_name>
   </station_g>
@@ -26,7 +26,7 @@
   <station_g>
     <pref_cd>7</pref_cd>
     <line_cd>11230</line_cd>
-    <line_name>JR常磐線(取手～いわき)</line_name>
+    <line_name>JR常磐線(いわき～仙台)</line_name>
     <station_cd>1123001</station_cd>
     <station_name>いわき</station_name>
   </station_g>

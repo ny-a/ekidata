@@ -12,7 +12,7 @@
   <station_g>
     <pref_cd>24</pref_cd>
     <line_cd>11508</line_cd>
-    <line_name>JR関西本線(亀山～加茂)</line_name>
+    <line_name>JR関西本線(名古屋～亀山)</line_name>
     <station_cd>1150818</station_cd>
     <station_name>亀山</station_name>
   </station_g>
@@ -26,7 +26,7 @@
   <station_g>
     <pref_cd>24</pref_cd>
     <line_cd>11510</line_cd>
-    <line_name>JR関西本線(亀山～加茂)</line_name>
+    <line_name>JR紀勢本線</line_name>
     <station_cd>1151001</station_cd>
     <station_name>亀山</station_name>
   </station_g>

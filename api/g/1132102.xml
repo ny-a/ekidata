@@ -12,7 +12,7 @@
   <station_g>
     <pref_cd>13</pref_cd>
     <line_cd>11302</line_cd>
-    <line_name>JR埼京線</line_name>
+    <line_name>JR山手線</line_name>
     <station_cd>1130204</station_cd>
     <station_name>恵比寿</station_name>
   </station_g>
@@ -26,14 +26,14 @@
   <station_g>
     <pref_cd>13</pref_cd>
     <line_cd>11333</line_cd>
-    <line_name>JR埼京線</line_name>
+    <line_name>JR湘南新宿ライン</line_name>
     <station_cd>1133306</station_cd>
     <station_name>恵比寿</station_name>
   </station_g>
   <station_g>
     <pref_cd>13</pref_cd>
     <line_cd>28003</line_cd>
-    <line_name>JR埼京線</line_name>
+    <line_name>東京メトロ日比谷線</line_name>
     <station_cd>2800320</station_cd>
     <station_name>恵比寿</station_name>
   </station_g>

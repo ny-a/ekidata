@@ -12,7 +12,7 @@
   <station_g>
     <pref_cd>1</pref_cd>
     <line_cd>11107</line_cd>
-    <line_name>花咲線</line_name>
+    <line_name>JR根室本線(新得～釧路)</line_name>
     <station_cd>1110731</station_cd>
     <station_name>釧路</station_name>
   </station_g>
@@ -26,7 +26,7 @@
   <station_g>
     <pref_cd>1</pref_cd>
     <line_cd>11117</line_cd>
-    <line_name>花咲線</line_name>
+    <line_name>JR釧網本線</line_name>
     <station_cd>1111728</station_cd>
     <station_name>釧路</station_name>
   </station_g>

@@ -12,14 +12,14 @@
   <station_g>
     <pref_cd>13</pref_cd>
     <line_cd>22007</line_cd>
-    <line_name>西武国分寺線</line_name>
+    <line_name>西武新宿線</line_name>
     <station_cd>2200721</station_cd>
     <station_name>東村山</station_name>
   </station_g>
   <station_g>
     <pref_cd>13</pref_cd>
     <line_cd>22009</line_cd>
-    <line_name>西武国分寺線</line_name>
+    <line_name>西武西武園線</line_name>
     <station_cd>2200901</station_cd>
     <station_name>東村山</station_name>
   </station_g>

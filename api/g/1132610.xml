@@ -12,14 +12,14 @@
   <station_g>
     <pref_cd>12</pref_cd>
     <line_cd>11305</line_cd>
-    <line_name>JR京葉線</line_name>
+    <line_name>JR武蔵野線</line_name>
     <station_cd>1130524</station_cd>
     <station_name>西船橋</station_name>
   </station_g>
   <station_g>
     <pref_cd>12</pref_cd>
     <line_cd>11313</line_cd>
-    <line_name>JR京葉線</line_name>
+    <line_name>JR中央・総武線</line_name>
     <station_cd>1131330</station_cd>
     <station_name>西船橋</station_name>
   </station_g>
@@ -33,14 +33,14 @@
   <station_g>
     <pref_cd>12</pref_cd>
     <line_cd>28004</line_cd>
-    <line_name>JR京葉線</line_name>
+    <line_name>東京メトロ東西線</line_name>
     <station_cd>2800423</station_cd>
     <station_name>西船橋</station_name>
   </station_g>
   <station_g>
     <pref_cd>12</pref_cd>
     <line_cd>99338</line_cd>
-    <line_name>JR京葉線</line_name>
+    <line_name>東葉高速線</line_name>
     <station_cd>9933801</station_cd>
     <station_name>西船橋</station_name>
   </station_g>

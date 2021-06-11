@@ -12,7 +12,7 @@
   <station_g>
     <pref_cd>27</pref_cd>
     <line_cd>11625</line_cd>
-    <line_name>大阪メトロ谷町線</line_name>
+    <line_name>JR東西線</line_name>
     <station_cd>1162503</station_cd>
     <station_name>大阪天満宮</station_name>
   </station_g>
@@ -26,7 +26,7 @@
   <station_g>
     <pref_cd>27</pref_cd>
     <line_cd>99623</line_cd>
-    <line_name>大阪メトロ谷町線</line_name>
+    <line_name>大阪メトロ堺筋線</line_name>
     <station_cd>9962303</station_cd>
     <station_name>南森町</station_name>
   </station_g>

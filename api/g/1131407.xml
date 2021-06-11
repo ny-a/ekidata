@@ -12,7 +12,7 @@
   <station_g>
     <pref_cd>12</pref_cd>
     <line_cd>11313</line_cd>
-    <line_name>JR総武本線</line_name>
+    <line_name>JR中央・総武線</line_name>
     <station_cd>1131331</station_cd>
     <station_name>船橋</station_name>
   </station_g>
@@ -26,14 +26,14 @@
   <station_g>
     <pref_cd>12</pref_cd>
     <line_cd>21004</line_cd>
-    <line_name>JR総武本線</line_name>
+    <line_name>東武野田線</line_name>
     <station_cd>2100435</station_cd>
     <station_name>船橋</station_name>
   </station_g>
   <station_g>
     <pref_cd>12</pref_cd>
     <line_cd>23001</line_cd>
-    <line_name>JR総武本線</line_name>
+    <line_name>京成本線</line_name>
     <station_cd>2300122</station_cd>
     <station_name>京成船橋</station_name>
   </station_g>

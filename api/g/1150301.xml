@@ -12,14 +12,14 @@
   <station_g>
     <pref_cd>21</pref_cd>
     <line_cd>11416</line_cd>
-    <line_name>JR東海道本線(岐阜～美濃赤坂・米原)</line_name>
+    <line_name>JR高山本線</line_name>
     <station_cd>1141601</station_cd>
     <station_name>岐阜</station_name>
   </station_g>
   <station_g>
     <pref_cd>21</pref_cd>
     <line_cd>11502</line_cd>
-    <line_name>JR東海道本線(岐阜～美濃赤坂・米原)</line_name>
+    <line_name>JR東海道本線(浜松～岐阜)</line_name>
     <station_cd>1150239</station_cd>
     <station_name>岐阜</station_name>
   </station_g>

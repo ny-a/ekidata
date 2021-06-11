@@ -12,7 +12,7 @@
   <station_g>
     <pref_cd>39</pref_cd>
     <line_cd>99817</line_cd>
-    <line_name>伊野線</line_name>
+    <line_name>ごめん線</line_name>
     <station_cd>9981733</station_cd>
     <station_name>はりまや橋</station_name>
   </station_g>
@@ -26,7 +26,7 @@
   <station_g>
     <pref_cd>39</pref_cd>
     <line_cd>99819</line_cd>
-    <line_name>伊野線</line_name>
+    <line_name>桟橋線</line_name>
     <station_cd>9981904</station_cd>
     <station_name>はりまや橋</station_name>
   </station_g>

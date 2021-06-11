@@ -12,7 +12,7 @@
   <station_g>
     <pref_cd>14</pref_cd>
     <line_cd>11303</line_cd>
-    <line_name>東急田園都市線</line_name>
+    <line_name>JR南武線</line_name>
     <station_cd>1130310</station_cd>
     <station_name>武蔵溝ノ口</station_name>
   </station_g>
@@ -26,7 +26,7 @@
   <station_g>
     <pref_cd>14</pref_cd>
     <line_cd>26004</line_cd>
-    <line_name>東急田園都市線</line_name>
+    <line_name>東急大井町線</line_name>
     <station_cd>2600418</station_cd>
     <station_name>溝の口</station_name>
   </station_g>
