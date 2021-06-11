@@ -24,7 +24,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@actions/core": "^1.2.6"
+    "@actions/core": "^1.2.6",
+    "xmlbuilder2": "^2.4.1"
   },
   "devDependencies": {
     "@types/jest": "^26.0.15",
@@ -39,6 +40,7 @@
     "js-yaml": "^3.14.0",
     "prettier": "2.2.1",
     "ts-jest": "^26.4.4",
+    "ts-node": "^10.0.0",
     "typescript": "^4.1.3"
   }
 }

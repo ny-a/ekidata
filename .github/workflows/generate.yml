@@ -11,3 +11,4 @@ jobs:
       - run: npm run all
         working-directory: ./.github/actions/generate
       - uses: ./.github/actions/generate
+      - uses: peaceiris/actions-gh-pages@v3
