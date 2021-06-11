@@ -207,7 +207,7 @@ async function generateGroup(
       .sort(RailwayStation.sort)
 
     const station_g = groupedStations.map(station => {
-      const groupedStationLine = lines.find(line => line.line_cd === line_cd)
+      const groupedStationLine = lines.find(line => line.line_cd === station.line_cd)
       return {
         pref_cd: station.pref_cd,
         line_cd: station.line_cd,
